@@ -6,85 +6,37 @@
 
 # Hi, I'm Xiaohan 👋
 
-I build **AI tools, workflows and experiments**.
+I build **AI tools, skills and experimental systems**.
 
-Exploring the intersection of **artificial intelligence, data, research and creative coding**.
+Interested in **agentic workflows, reusable AI capabilities, research tooling and data-driven problem solving**.
 
----
-
-## 🧩 About Me
-
-🎓 Data Science & Big Data Technology Student @ Yunnan University
-
-Interested in:
-
-- 🤖 AI Agents & LLM Applications
-- 🧩 Skills and reusable AI workflows
-- 🛠 Developer tools and automation
-- 📊 Data-driven problem solving
-- 🔬 Scientific computing and research experiments
+🎓 Data Science & Big Data Technology @ Yunnan University
 
 ---
 
-## 🚀 Building
+## 🔭 What I'm exploring
 
-A place for ideas, experiments and practical tools.
-
-### 🤖 AI Systems
-Exploring agents, intelligent workflows and AI-assisted productivity.
-
-### 🧩 Skills
-Creating reusable capabilities for coding, research and automation.
-
-### 🛠 Tools
-Building small utilities that make workflows simpler.
-
-### 🧪 Experiments
-Learning by building and sharing interesting projects.
+`AI Agents` · `Skills` · `MCP` · `Research Tools` · `Data Intelligence` · `Scientific Computing`
 
 ---
 
-## ⭐ Featured Projects
+## ⚡ What I like to build
 
-Projects will appear here as they grow.
-
-Coming soon:
-
-- AI skills & workflows
-- Research tools
-- Data experiments
-- Open-source projects
+- **Skills** — reusable capabilities for AI workflows
+- **Agents** — systems that can reason, act and coordinate tools
+- **Tools** — practical utilities for research, coding and productivity
+- **Experiments** — small ideas worth turning into something real
 
 ---
 
-## 📚 Currently Exploring
+## 🧭 Philosophy
 
-- Large Language Models
-- AI Agent Frameworks
-- Machine Learning
-- Mathematical Modeling
-- Scientific Computing
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xiaohan-2005&show_icons=true&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Contact
-
-GitHub: [@xiaohan-2005](https://github.com/xiaohan-2005)
+> Build first. Learn by shipping. Keep the useful parts.
 
 ---
 
 <div align="center">
 
-*Keep building. Keep exploring.*
+<sub>More projects will be added when they're worth showing.</sub>
 
 </div>
