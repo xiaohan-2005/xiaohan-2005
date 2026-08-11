@@ -48,7 +48,6 @@ Implementing mathematical models, optimization methods and scientific computing 
 Experiments on machine learning, deep learning and intelligent systems.
 
 ### 🎮 Game Development Exploration
-- SimpleParkourGame
 - MyPlatformer
 
 ---
