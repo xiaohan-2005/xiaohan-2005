@@ -1,52 +1,90 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0D1117"/>
-      <stop offset="0.56" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#111827"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111B"/>
+      <stop offset="0.62" stop-color="#091520"/>
+      <stop offset="1" stop-color="#0B1924"/>
     </linearGradient>
-    <linearGradient id="line" x1="86" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58A6FF"/>
-      <stop offset="0.52" stop-color="#A371F7"/>
-      <stop offset="1" stop-color="#39D0D8"/>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1020 172) rotate(90) scale(230 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#53D6C5" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#53D6C5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amberGlow" cx="0" cy="0" r="1" gradientTransform="translate(785 325) rotate(90) scale(150 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2B84B" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#F2B84B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="742" y1="0" x2="1125" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#365069"/>
+      <stop offset="0.45" stop-color="#53D6C5"/>
+      <stop offset="1" stop-color="#F2B84B"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(1010 80) rotate(90) scale(180 220)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58A6FF" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(1090 245) rotate(90) scale(150 210)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A371F7" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
-    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#02070C" flood-opacity="0.42"/>
+    </filter>
   </defs>
 
-  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="24" fill="url(#glowA)"/>
-  <rect width="1200" height="300" rx="24" fill="url(#glowB)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#cyanGlow)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#amberGlow)"/>
 
-  <g opacity="0.42" stroke="#30363D">
-    <path d="M900 48H1140"/>
-    <path d="M900 92H1140"/>
-    <path d="M900 136H1140"/>
-    <path d="M900 180H1140"/>
-    <path d="M900 224H1140"/>
-    <path d="M944 28V250"/>
-    <path d="M988 28V250"/>
-    <path d="M1032 28V250"/>
-    <path d="M1076 28V250"/>
-    <path d="M1120 28V250"/>
+  <!-- quiet research grid -->
+  <g opacity="0.25" stroke="#274052" stroke-width="1">
+    <path d="M710 38H1150"/>
+    <path d="M710 88H1150"/>
+    <path d="M710 138H1150"/>
+    <path d="M710 188H1150"/>
+    <path d="M710 238H1150"/>
+    <path d="M710 288H1150"/>
+    <path d="M760 28V322"/>
+    <path d="M820 28V322"/>
+    <path d="M880 28V322"/>
+    <path d="M940 28V322"/>
+    <path d="M1000 28V322"/>
+    <path d="M1060 28V322"/>
+    <path d="M1120 28V322"/>
   </g>
 
-  <g opacity="0.9">
-    <circle cx="944" cy="92" r="5" fill="#58A6FF"/>
-    <circle cx="1032" cy="136" r="5" fill="#A371F7"/>
-    <circle cx="1076" cy="92" r="5" fill="#39D0D8"/>
-    <circle cx="1120" cy="180" r="5" fill="#58A6FF"/>
-    <path d="M944 92L1032 136L1076 92L1120 180" stroke="url(#line)" stroke-width="2"/>
+  <!-- brand block -->
+  <text x="76" y="84" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">AI · RESEARCH · AGENTS</text>
+  <text x="72" y="157" fill="#F4F7FA" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="4">XIAOHAN</text>
+  <rect x="76" y="179" width="492" height="2" rx="1" fill="#2B4356"/>
+  <rect x="76" y="179" width="178" height="2" rx="1" fill="#53D6C5"/>
+  <text x="76" y="225" fill="#CAD5DF" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Building intelligent systems for</text>
+  <text x="76" y="257" fill="#CAD5DF" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">research, automation and data-driven work.</text>
+  <text x="76" y="309" fill="#718496" font-family="Segoe UI,Arial,sans-serif" font-size="17">tools / skills / agents / experiments</text>
+
+  <!-- research workflow visual -->
+  <g filter="url(#softShadow)">
+    <rect x="724" y="82" width="404" height="210" rx="22" fill="#0E1B28" stroke="#274052"/>
+  </g>
+  <text x="750" y="115" fill="#8196A8" font-family="Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2">RESEARCH WORKFLOW</text>
+
+  <path d="M789 190H1065" stroke="url(#signal)" stroke-width="3"/>
+  <path d="M1060 185L1069 190L1060 195" stroke="#F2B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g>
+    <circle cx="789" cy="190" r="27" fill="#122232" stroke="#3B556A" stroke-width="2"/>
+    <text x="789" y="195" text-anchor="middle" fill="#D8E2EA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">P</text>
+    <text x="789" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">PAPER</text>
   </g>
 
-  <text x="78" y="108" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="5">XIAOHAN</text>
-  <rect x="80" y="131" width="560" height="3" rx="1.5" fill="url(#line)"/>
-  <text x="80" y="181" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" letter-spacing="2">AI · CODE · RESEARCH · BUILD</text>
-  <text x="80" y="224" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">tools / skills / agents / experiments</text>
+  <g>
+    <circle cx="881" cy="190" r="27" fill="#10272A" stroke="#53D6C5" stroke-width="2"/>
+    <text x="881" y="195" text-anchor="middle" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">A</text>
+    <text x="881" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">AGENT</text>
+  </g>
+
+  <g>
+    <circle cx="973" cy="190" r="27" fill="#10272A" stroke="#53D6C5" stroke-width="2"/>
+    <text x="973" y="195" text-anchor="middle" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">E</text>
+    <text x="973" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">EVIDENCE</text>
+  </g>
+
+  <g>
+    <circle cx="1065" cy="190" r="27" fill="#2A2315" stroke="#F2B84B" stroke-width="2"/>
+    <text x="1065" y="195" text-anchor="middle" fill="#F2B84B" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">S</text>
+    <text x="1065" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">SLIDES</text>
+  </g>
+
+  <text x="750" y="271" fill="#65798B" font-family="Segoe UI,Arial,sans-serif" font-size="13">claim → source → evidence → output</text>
 </svg>
