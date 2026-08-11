@@ -4,68 +4,74 @@
 
 </div>
 
-# 👋 Hi, I'm Xiaohan (韩潇)
+# Hi, I'm Xiaohan 👋
 
-🎓 **Data Science & Big Data Technology Student**  
-📍 Yunnan University  
+I build **AI tools, workflows and experiments**.
 
-I am interested in exploring how **data, mathematical models and artificial intelligence** can solve real-world problems.
-
-My current interests include:
-
-- 🤖 Machine Learning & Artificial Intelligence
-- 📊 Statistical Learning and Data Analysis
-- 📐 Mathematical Modeling & Optimization
-- 🔗 Probabilistic Graphical Models
+Exploring the intersection of **artificial intelligence, data, research and creative coding**.
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 About Me
 
-**Languages**
+🎓 Data Science & Big Data Technology Student @ Yunnan University
 
-`Python` `C++` `SQL` `LaTeX`
+Interested in:
 
-**Data Science & AI**
-
-`NumPy` `Pandas` `Scikit-learn` `PyTorch` `Matplotlib`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
+- 🤖 AI Agents & LLM Applications
+- 🧩 Skills and reusable AI workflows
+- 🛠 Developer tools and automation
+- 📊 Data-driven problem solving
+- 🔬 Scientific computing and research experiments
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Building
 
-### 📊 Machine Learning & Data Science
-Exploring classical machine learning algorithms, statistical methods and data-driven solutions.
+A place for ideas, experiments and practical tools.
 
-### 📐 Mathematical Modeling Portfolio
-Implementing mathematical models, optimization methods and scientific computing workflows.
+### 🤖 AI Systems
+Exploring agents, intelligent workflows and AI-assisted productivity.
 
-### 🧠 AI Learning Projects
-Experiments on machine learning, deep learning and intelligent systems.
+### 🧩 Skills
+Creating reusable capabilities for coding, research and automation.
+
+### 🛠 Tools
+Building small utilities that make workflows simpler.
+
+### 🧪 Experiments
+Learning by building and sharing interesting projects.
 
 ---
 
-## 📚 Currently Learning
+## ⭐ Featured Projects
 
-- Machine Learning
-- Statistical Inference
-- Probabilistic Graphical Models
+Projects will appear here as they grow.
+
+Coming soon:
+
+- AI skills & workflows
+- Research tools
+- Data experiments
+- Open-source projects
+
+---
+
+## 📚 Currently Exploring
+
 - Large Language Models
-- AI-assisted Scientific Research
+- AI Agent Frameworks
+- Machine Learning
+- Mathematical Modeling
+- Scientific Computing
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=xiaohan-2005&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohan-2005&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -79,6 +85,6 @@ GitHub: [@xiaohan-2005](https://github.com/xiaohan-2005)
 
 <div align="center">
 
-*Keep learning. Keep building. Keep exploring.*
+*Keep building. Keep exploring.*
 
 </div>
