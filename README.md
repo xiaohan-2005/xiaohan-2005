@@ -1,42 +1,47 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Xiaohan — AI, Research, Agents" />
 
 </div>
 
-# Hi, I'm Xiaohan 👋
+## Building AI systems for research, automation and data-driven work.
 
-I build **AI tools, skills and experimental systems**.
+I design **reusable Skills, agents and research tools** — with an emphasis on workflows that are useful enough to keep using after the demo is over.
 
-Interested in **agentic workflows, reusable AI capabilities, research tooling and data-driven problem solving**.
-
-🎓 Data Science & Big Data Technology @ Yunnan University
+<sub>Data Science & Big Data Technology · Yunnan University</sub>
 
 ---
 
-## 🔭 What I'm exploring
+## Featured build
 
-`AI Agents` · `Skills` · `MCP` · `Research Tools` · `Data Intelligence` · `Scientific Computing`
+### → [research-slides](https://github.com/xiaohan-2005/research-slides)
 
----
+> **Paper / notes / data → evidence-grounded research presentation**
 
-## ⚡ What I like to build
+A Codex-first Agent Skill for turning research material into citation-aware HTML presentations while keeping important claims, equations, figures and quantitative results traceable to their sources.
 
-- **Skills** — reusable capabilities for AI workflows
-- **Agents** — systems that can reason, act and coordinate tools
-- **Tools** — practical utilities for research, coding and productivity
-- **Experiments** — small ideas worth turning into something real
+`Codex` · `Agent Skill` · `Research Automation` · `HTML` · `Scientific Communication`
 
----
-
-## 🧭 Philosophy
-
-> Build first. Learn by shipping. Keep the useful parts.
+**Core idea:** `claim → source → evidence → slide`
 
 ---
 
-<div align="center">
+## What I'm building
 
-<sub>More projects will be added when they're worth showing.</sub>
+- **AI Skills** — reusable workflows that make capable models more consistent at real tasks
+- **Agents** — systems that can reason across tools, sources and multi-step work
+- **Research tooling** — workflows for papers, evidence, data and scientific communication
+- **Experiments** — small ideas that are worth turning into working software
 
-</div>
+---
+
+## Current interests
+
+`AI Agents` · `Codex Skills` · `Research Automation` · `Data Science` · `Scientific Computing` · `Open Source`
+
+---
+
+## Working principle
+
+> **Build the workflow. Test it on real work. Keep the parts that earn their complexity.**
+
