@@ -1,0 +1,36 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#101827"/>
+      <stop offset="1" stop-color="#151124"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="55" x2="820" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="826" cy="74" r="92" fill="#58A6FF" opacity="0.08" filter="url(#glow)"/>
+  <circle cx="884" cy="236" r="112" fill="#8B5CF6" opacity="0.08" filter="url(#glow)"/>
+  <path d="M40 264C176 190 259 300 396 224C533 148 623 214 768 136C842 96 906 92 960 108" stroke="url(#accent)" stroke-width="2" opacity="0.34"/>
+  <g opacity="0.35" fill="#8B949E">
+    <circle cx="110" cy="82" r="3"/><circle cx="155" cy="112" r="2"/><circle cx="834" cy="116" r="3"/><circle cx="902" cy="154" r="2"/><circle cx="762" cy="226" r="2"/>
+  </g>
+  <text x="70" y="110" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="5">XIAOHAN</text>
+  <rect x="70" y="132" width="560" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="70" y="184" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">Data Science · Machine Learning · Mathematical Modeling · AI</text>
+  <text x="70" y="226" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Turning data, models and algorithms into clear solutions.</text>
+  <g transform="translate(780 168)">
+    <circle cx="0" cy="0" r="42" stroke="#58A6FF" stroke-width="2" opacity="0.7"/>
+    <circle cx="0" cy="0" r="22" stroke="#8B5CF6" stroke-width="2" opacity="0.75"/>
+    <circle cx="0" cy="0" r="5" fill="#2DD4BF"/>
+    <circle cx="34" cy="-24" r="5" fill="#58A6FF"/>
+    <circle cx="-18" cy="35" r="5" fill="#8B5CF6"/>
+    <path d="M0 0L34 -24M0 0L-18 35" stroke="#8B949E" stroke-width="1.5" opacity="0.65"/>
+  </g>
+</svg>
