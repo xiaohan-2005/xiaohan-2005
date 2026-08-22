@@ -13,7 +13,7 @@
       <stop stop-color="#F2B84B" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#F2B84B" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="signal" x1="742" y1="0" x2="1125" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="signal" x1="760" y1="0" x2="1090" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#365069"/>
       <stop offset="0.45" stop-color="#53D6C5"/>
       <stop offset="1" stop-color="#F2B84B"/>
@@ -27,7 +27,6 @@
   <rect width="1200" height="360" rx="26" fill="url(#cyanGlow)"/>
   <rect width="1200" height="360" rx="26" fill="url(#amberGlow)"/>
 
-  <!-- quiet research grid -->
   <g opacity="0.25" stroke="#274052" stroke-width="1">
     <path d="M710 38H1150"/>
     <path d="M710 88H1150"/>
@@ -44,47 +43,50 @@
     <path d="M1120 28V322"/>
   </g>
 
-  <!-- brand block -->
-  <text x="76" y="84" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">AI · RESEARCH · AGENTS</text>
+  <text x="76" y="84" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">AI · RESEARCH · AGENT SKILLS</text>
   <text x="72" y="157" fill="#F4F7FA" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="4">XIAOHAN</text>
   <rect x="76" y="179" width="492" height="2" rx="1" fill="#2B4356"/>
   <rect x="76" y="179" width="178" height="2" rx="1" fill="#53D6C5"/>
-  <text x="76" y="225" fill="#CAD5DF" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Building intelligent systems for</text>
-  <text x="76" y="257" fill="#CAD5DF" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">research, automation and data-driven work.</text>
-  <text x="76" y="309" fill="#718496" font-family="Segoe UI,Arial,sans-serif" font-size="17">tools / skills / agents / experiments</text>
+  <text x="76" y="225" fill="#CAD5DF" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Building reusable AI workflows for</text>
+  <text x="76" y="257" fill="#CAD5DF" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">research and technical work.</text>
+  <text x="76" y="309" fill="#718496" font-family="Segoe UI,Arial,sans-serif" font-size="17">slides / podcasts / figures / experiments</text>
 
-  <!-- research workflow visual -->
   <g filter="url(#softShadow)">
-    <rect x="724" y="82" width="404" height="210" rx="22" fill="#0E1B28" stroke="#274052"/>
+    <rect x="724" y="72" width="404" height="230" rx="22" fill="#0E1B28" stroke="#274052"/>
   </g>
-  <text x="750" y="115" fill="#8196A8" font-family="Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2">RESEARCH WORKFLOW</text>
+  <text x="750" y="108" fill="#8196A8" font-family="Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2">RESEARCH AI TOOLKIT</text>
 
-  <path d="M789 190H1065" stroke="url(#signal)" stroke-width="3"/>
-  <path d="M1060 185L1069 190L1060 195" stroke="#F2B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M785 170H1065" stroke="url(#signal)" stroke-width="3"/>
+  <path d="M1060 165L1069 170L1060 175" stroke="#F2B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 
   <g>
-    <circle cx="789" cy="190" r="27" fill="#122232" stroke="#3B556A" stroke-width="2"/>
-    <text x="789" y="195" text-anchor="middle" fill="#D8E2EA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">P</text>
-    <text x="789" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">PAPER</text>
-  </g>
-
-  <g>
-    <circle cx="881" cy="190" r="27" fill="#10272A" stroke="#53D6C5" stroke-width="2"/>
-    <text x="881" y="195" text-anchor="middle" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">A</text>
-    <text x="881" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">AGENT</text>
+    <circle cx="785" cy="170" r="25" fill="#122232" stroke="#3B556A" stroke-width="2"/>
+    <text x="785" y="175" text-anchor="middle" fill="#D8E2EA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">I</text>
+    <text x="785" y="211" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="11">INPUT</text>
   </g>
 
   <g>
-    <circle cx="973" cy="190" r="27" fill="#10272A" stroke="#53D6C5" stroke-width="2"/>
-    <text x="973" y="195" text-anchor="middle" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">E</text>
-    <text x="973" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">EVIDENCE</text>
+    <circle cx="878" cy="170" r="25" fill="#10272A" stroke="#53D6C5" stroke-width="2"/>
+    <text x="878" y="175" text-anchor="middle" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">A</text>
+    <text x="878" y="211" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="11">AGENT</text>
   </g>
 
   <g>
-    <circle cx="1065" cy="190" r="27" fill="#2A2315" stroke="#F2B84B" stroke-width="2"/>
-    <text x="1065" y="195" text-anchor="middle" fill="#F2B84B" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">S</text>
-    <text x="1065" y="238" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="12">SLIDES</text>
+    <circle cx="971" cy="170" r="25" fill="#10272A" stroke="#53D6C5" stroke-width="2"/>
+    <text x="971" y="175" text-anchor="middle" fill="#53D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">V</text>
+    <text x="971" y="211" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="11">VERIFY</text>
   </g>
 
-  <text x="750" y="271" fill="#65798B" font-family="Segoe UI,Arial,sans-serif" font-size="13">claim → source → evidence → output</text>
+  <g>
+    <circle cx="1065" cy="170" r="25" fill="#2A2315" stroke="#F2B84B" stroke-width="2"/>
+    <text x="1065" y="175" text-anchor="middle" fill="#F2B84B" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">O</text>
+    <text x="1065" y="211" text-anchor="middle" fill="#8196A8" font-family="Consolas,monospace" font-size="11">OUTPUT</text>
+  </g>
+
+  <rect x="751" y="244" width="104" height="30" rx="15" fill="#10272A" stroke="#2F746B"/>
+  <rect x="867" y="244" width="104" height="30" rx="15" fill="#10272A" stroke="#2F746B"/>
+  <rect x="983" y="244" width="118" height="30" rx="15" fill="#2A2315" stroke="#80652D"/>
+  <text x="803" y="264" text-anchor="middle" fill="#9EDFD7" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">SLIDES</text>
+  <text x="919" y="264" text-anchor="middle" fill="#9EDFD7" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">AUDIO</text>
+  <text x="1042" y="264" text-anchor="middle" fill="#E7C97E" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">FIGURES</text>
 </svg>
