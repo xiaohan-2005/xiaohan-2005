@@ -76,3 +76,13 @@ A GPT-native figure workflow covering new conceptual figures, controlled image e
 ## Build principle
 
 > **Build the workflow. Test it on real work. Keep the parts that earn their complexity.**
+
+---
+
+<div align="center">
+
+[Research Slides](https://github.com/xiaohan-2005/research-slides) · [Research Podcast](https://github.com/xiaohan-2005/research-podcast) · [Engineering Figure GPT](https://github.com/xiaohan-2005/engineering-figure-gpt)
+
+<sub>Open-source experiments in research automation and agent workflows.</sub>
+
+</div>
